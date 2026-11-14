@@ -5,7 +5,7 @@ Estudante de **Sistemas de Informação** (Uniube, 4º período) com formação 
 📫 [LinkedIn](https://www.linkedin.com/in/matheus-marques654b3727a) · ✉️ [matheusfftc22@gmail.com](mailto:matheusfftc22@gmail.com) · 💻 [GitHub](https://github.com/Infinitymg)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
